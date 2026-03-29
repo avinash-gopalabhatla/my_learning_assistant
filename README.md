@@ -1,5 +1,3 @@
-# my_learning_assistant
-
 # I have always felt I have learnt and improved more in the presence of intellectual and understanding friends and I wish to create one such for every ambitious learner
 
 This is built for someone switching domains who can't track what they actually understood vs what they've merely read.
@@ -12,4 +10,10 @@ I wish to create such tool where the actual knowledge base is single and i bring
 
 I also felt I wasn't able to track whether I understood everything that I added as a source, however simple it might seem to get a summary out of 3 4 sources I believe one has to understand each and every corner of their source to truly see and understand the bigger picture. And that is something I want to add in the tool which helps me be aware of the level of understanding for each and every source so that I would not just have the gist and summary of it rather I would be able to have the working knowledge of it. 
 
-And that's why I am building this tool which has a collective brain that segregates the information you put in a layered chain fashion and determines your understanding on each and every source and suggests you the area you need to focus upon thus giving a personalized learning companion experience.
+## And that's why I am building 
+This tool which has a collective brain that
+- segregates the information you put in a layered chain fashion
+- determines your understanding level on each and every source
+- explains contents based on your existing knowledge base by drawing analogies and correlating them
+- suggests you the area you need to focus upon
+thus giving you a personalized learning companion experience.
